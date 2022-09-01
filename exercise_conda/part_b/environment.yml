@@ -1,0 +1,10 @@
+name: exercise_conda_b
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - requests
+  - pandas
+  - matplotlib
+  - openpyxl
+prefix: /Users/edgarpichardo/opt/miniconda3/envs/exercise_conda_b

@@ -1,0 +1,8 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - python.app
+prefix: /Users/edgarpichardo/opt/miniconda3
